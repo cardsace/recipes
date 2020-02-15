@@ -6,7 +6,7 @@
 - 2 cups buttermilk
 - 1 tsp. baking powder
 - 1 tsp. baking soda
-- $1/4$ cup bacon grease
+- &frac14; cup bacon grease
 - salt (most bacon grease provides plenty of saltiness)
 
 ## Directions
