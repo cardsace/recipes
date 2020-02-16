@@ -24,6 +24,9 @@ This a traditional Cajun-style (brown) jambalaya, chock full of smoked meats wit
 |1| bay leaf
 |&frac12; c.| thinly sliced scallions
 | | Hot sauce, preferably Crystal
+
+<div style="page-break-after: always;"></div>
+
 ## Directions
 1. Roast Chicken
    1. Preheat oven to 325&deg;
