@@ -3,7 +3,7 @@
 |Ingredients | |
 |-----:|----|
 |24 oz| fresh or frozen raspberries
-|3 &frac12; c.| vodka (100 proof)
+|750 ml| vodka (100 proof)
 |1 c.| sugar
 ## Directions
 1. Pour raspberries into a large jar and cover with sugar. Pour vodka over all and close with lid.
