@@ -10,7 +10,7 @@
 | 2 cloves | garlic
 | | salt and pepper to taste
 
-## Instructions
+### Instructions
 1. Preheat oven 350&deg;F
 2. Combine all ingredients in large bowl; mix lightly but thoroughly.
 3. Shape mixture in to loaf on rack of broiler pan

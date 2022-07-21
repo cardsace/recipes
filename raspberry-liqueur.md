@@ -1,6 +1,6 @@
 # Raspberry Liqueur
 
-|Ingredients | |
+| | Ingredients |
 |-----:|----|
 |24 oz| fresh or frozen raspberries
 |750 ml| vodka (100 proof)

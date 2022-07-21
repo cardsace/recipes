@@ -1,12 +1,12 @@
 # Berry Liqueur
 Works for at least blackberries, blueberries, loganberries, snozberries and marion berries.
-|Ingredients | |
+| | Ingredients |
 |------:|:------|
 |1 lb| berries
 |4 c.| vodka
 |1 lb| sugar
 |2 c.|water
-## Directions
+### Instructions
 1. Crush berries with the back of a wooden spoon. 
 2. Heat water and sugar together until completely dissolved.
 3. Pour warm syrup over berries. Stir. Cover with plastic and refrigerate for a week, stirring occasionally.

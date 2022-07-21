@@ -8,7 +8,7 @@ This a traditional Cajun-style (brown) jambalaya, chock full of smoked meats wit
 | Ingredients | |
 ----:|:----
 | 2 &frac12;-3 lb | whole chicken or leg quarters
-| | Kosher salt
+| | kosher salt
 | 1 | large yellow onion, diced, trimmings reserved
 | 3 | medium celery stalks, finely chopped, trimmings reserved
 | 1 tbsp.| canola oil
